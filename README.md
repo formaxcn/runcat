@@ -4,7 +4,7 @@
 
 使用egret游戏引擎v2.0.1，寻路采用宽度优先算法寻找最短路径。
 
-tzhruncats.sinaapp.com
+http://tzhruncats.sinaapp.com
 
 
 bug：js回收失败，长期运行内存溢出
