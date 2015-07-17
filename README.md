@@ -1,7 +1,11 @@
 # runcat
 神经猫的实现
+@TangZhihao(tjrtzh@gmail.com)
 
 使用egret游戏引擎v2.0.1，寻路采用宽度优先算法寻找最短路径。
+
+tzhruncats.sinaapp.com
+
 
 bug：js回收失败，长期运行内存溢出
 todo：算法空间复杂度过高，现在只标记路大小，需要函数回查路径，可以考虑改为存储上一点的位置减少内存使用
